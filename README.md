@@ -2,8 +2,6 @@
 
 The dataset sourced from Kaggle (https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset) consists of Chest X-Ray images categorized into three classes: COVID-19, normal individuals, and viral pneumonia cases. The dataset is divided into two main directories, namely "train" and "test," each containing three subfolders corresponding to the three classes: "covid," "normal," and "viral pneumonia." In total, the dataset contains 317 image files, with 238 being in JPEG format, 68 in JPG format, and 11 in PNG format. This dataset serves as a valuable resource for training and evaluating Convolutional Neural Networks (CNNs) to accurately classify Chest X-Ray images into these three clinically relevant categories, which could contribute to the detection and diagnosis of respiratory diseases such as COVID-19 and viral pneumonia.
 
-![dataset-cover](https://github.com/Sameer-ansarii/AI-X-Ray-Diagnosis-CNN-/assets/125865393/7a145124-f99a-4a3d-b604-1c3734a5637e)
-
 # Problem Statement
 
 Respiratory diseases, including COVID-19, viral pneumonia, and normal lung conditions, have significant implications for public health. The accurate and early detection of these conditions is crucial for effective medical intervention. This project focuses on leveraging Convolutional Neural Networks (CNNs) to classify Chest X-Ray images into three categories: COVID-19, normal, and viral pneumonia. The goal is to develop a robust model that aids medical professionals in making accurate and timely diagnoses. 
